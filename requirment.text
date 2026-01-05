@@ -1,0 +1,13 @@
+streamlit==1.31.0
+langchain-core==1.2.6
+langchain-classic==1.0.1
+langchain-community==0.4.1
+langchain-google-genai==4.1.2
+langchain-huggingface==1.2.0
+chromadb==0.4.22
+PyGithub==2.1.1
+gitpython==3.1.41
+google-generativeai==0.8.3
+python-dotenv==1.0.1
+huggingface-hub==0.23.4
+sentence-transformers==2.7.0
